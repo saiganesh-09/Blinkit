@@ -85,6 +85,12 @@ Blinkit/
 └── index.html   # Entire app — markup, styles, dataset & logic in one file
 ```
 
+## 🤝 Contributors
+
+<a href="https://github.com/saiganesh-09/Blinkit/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=saiganesh-09/Blinkit" alt="Contributors" />
+</a>
+
 ## 👤 Author
 
 Built by [Sai Ganesh](https://github.com/saiganesh-09)
